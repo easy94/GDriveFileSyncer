@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qiWTQKsycDY=",
+  "dgSpecHash": "TV5HmJJKy+elglh6B2WiRfOMXiyssEmDexqeUQTYBV6v3ry+gDUU/TM2iyxsQ05g531cvZUVOgG6zmukaXMWAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\github repo\\GDriveFileSyncer\\GDriveFileSyncer.csproj",
+  "projectFilePath": "/home/lucas/Development/GDriveFileSyncer/GDriveFileSyncer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
