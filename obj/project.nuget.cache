@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TV5HmJJKy+elglh6B2WiRfOMXiyssEmDexqeUQTYBV6v3ry+gDUU/TM2iyxsQ05g531cvZUVOgG6zmukaXMWAw==",
+  "dgSpecHash": "5IVnfad8glw=",
   "success": true,
   "projectFilePath": "/home/lucas/Development/GDriveFileSyncer/GDriveFileSyncer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.21/microsoft.netcore.app.host.linux-x64.8.0.21.nupkg.sha512"
+  ],
   "logs": []
 }
